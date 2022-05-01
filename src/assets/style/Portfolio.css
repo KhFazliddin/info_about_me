@@ -1,0 +1,52 @@
+.portfolio_title {
+  display: grid;
+  justify-content: center;
+}
+.portfolio_title div {
+  display: flex;
+  justify-content: center;
+}
+.portfolio_title p {
+  width: 160px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffb742;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 50px;
+}
+.portfolio_title h1 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+}
+.different_type {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 30px;
+  cursor: pointer;
+}
+.different_type .first_child {
+  width: 61px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #ffb742;
+  border-radius: 3px;
+}
+.my_works {
+  display: flex;
+  justify-content: space-evenly;
+}
+.img_row {
+  display: grid;
+}
+.img_row img {
+  margin: 15px 0;
+}

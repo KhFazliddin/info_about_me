@@ -1,0 +1,32 @@
+.about_container {
+  display: flex;
+}
+.left_about {
+  width: 682px;
+  height: 396.63px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.about {
+  align-items: center;
+  line-height: 0px;
+}
+
+.about p {
+  width: 148px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffb742;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 50px;
+}
+.left_about button {
+  width: 147.57px;
+  height: 54px;
+  background: #ffb742;
+  border-radius: 50px;
+}

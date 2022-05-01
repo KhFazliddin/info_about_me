@@ -1,0 +1,64 @@
+.last_container {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  margin-top: 150px;
+}
+.last_container h2 {
+  font-weight: 700;
+  font-size: 21.5865px;
+  line-height: 32px;
+}
+.fazliddin h1 {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 100%;
+  color: #ffb742;
+}
+.links_last {
+  display: grid;
+  font-weight: 500;
+  font-size: 17.9888px;
+  line-height: 36px;
+}
+
+.news_letter p {
+  font-weight: 500;
+  font-size: 17.9888px;
+  line-height: 36px;
+  color: #7b7b7b;
+}
+.input_address {
+  width: 310px;
+  height: 63.25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: none;
+  background: #212529;
+  border-radius: 49px;
+  font-weight: 400;
+  font-size: 15.8118px;
+  line-height: 23px;
+  color: #7c7c7c;
+  border: none;
+}
+.input_address input {
+  width: 310px;
+  height: 63.25px;
+  outline: none;
+  background: #212529;
+  border-radius: 49px;
+  font-weight: 400;
+  font-size: 15.8118px;
+  line-height: 23px;
+  color: #7c7c7c;
+  border: none;
+}
+
+.input_telegram {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-left: 90px;
+}

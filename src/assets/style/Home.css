@@ -1,0 +1,71 @@
+.center {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+.center h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 51px;
+}
+h3 p {
+  margin: 0 7px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 51px;
+  color: #ffb742;
+  text-decoration: underline;
+}
+.center h1 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 91px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+}
+.center p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 51px;
+}
+.center .img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.myself div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+}
+.square{
+  width: 416px;
+  height: 120px;
+  background: rgba(56, 62, 69, 0.44);
+}
+.myself {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  margin-top: 100px;
+}
+.experience{
+  display: grid;
+  flex-direction: column;
+}
+.experience h1{
+  color: #ffb742;
+}
